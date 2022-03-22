@@ -7,6 +7,6 @@ print(full_name[0:3])  # slicing a character from one position to another
 print(len(full_name))   # the len funtion is used to calculate the total lenth of a strings
 
 print(full_name.upper())   # capitalization
-print(full_name.lower())   # small letter
-
+print(full_name.lower())   # small letter 
+ 
 
