@@ -40,7 +40,7 @@ duration_of_stay = int(input("how long will you stay in canada if approved?\n"))
 if duration_of_stay <= 30 and Purpose_of_travel == "leisure":
     print(f" congratulations you have been granted a {duration_of_stay} days visa for {leisure} visa.")
 
-elif duration_of_stay >= 4 and Purpose_of_travel == "school":
+elif duration_of_stay <= 4 and Purpose_of_travel == "school":
     print(f"congratulations, you have been granted a {school} visa for {duration_of_stay} years")
 
 elif duration_of_stay <= 30 and Purpose_of_travel == "biz":
