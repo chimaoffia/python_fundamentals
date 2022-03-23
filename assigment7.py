@@ -1,9 +1,6 @@
   # create an authomated embassy chat. be creative and have fun with it
 
 
-from typing import ChainMap
-
-
 print("welcome to canadian embassy")
 
 #visa types
