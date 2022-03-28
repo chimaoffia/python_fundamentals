@@ -1,17 +1,25 @@
-print("hello world")
-print("this is my first pratice")
-print("i would like if you can help me do better in maths")
-print(65+10)
-print(50-51)
-print(10*10)
-print(100/2)
+# print("hello world")
+# print("this is my first pratice")
+# print("i would like if you can help me do better in maths")
+# print(65+10)
+# print(50-51)
+# print(10*10)
+# print(100/2)
 
-first_name = input("please enter your first name: ")
-last_name = input("please enter your last name: ")
+# first_name = input("please enter your first name: ")
+# last_name = input("please enter your last name: ")
 
-print("hello,welcome" + " " + first_name + " " + last_name)
+# print("hello,welcome" + " " + first_name + " " + last_name)
 
-print(f" i am a man")
+# print(f" i am a man")
 
-working = True
-print(type(working))
+# working = True
+# print(type(working))
+
+first_name = "chima"
+last_name = "offia"
+
+first_name = last_name
+
+print(first_name)
+print(last_name)
