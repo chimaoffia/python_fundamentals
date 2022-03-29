@@ -1,31 +1,4 @@
-# #list
-
-
-# shopping_list = ["milk", "bread", "suger"]
-# numbers = [1, 2, 3, 4, 5]
-# products =[] #empty_list   it is used to add things by the user.
-
-# my_hobbies = ["reading", "playing football", ["coding", "blockchain", ["coke", "fanta"]]]
-
-
-# print(shopping_list)
-
-# print(numbers)
-# print(my_hobbies)
-
-# #how to access items inside a list.   kindly note that list is an index based i.e 0-9
-
-# print(shopping_list[0])
-# print(shopping_list[2])
-
-# print(my_hobbies[2][1])
-# print(my_hobbies[2])
-# print(my_hobbies[2][2][0])
-
-# print(my_hobbies[1])
-# print(my_hobbies[2][2][1])
-
-#changing values inside the list.
+#list
 
 shopping_items = ["iphone", "macbook","iwatch"]
 shopping_items[2] = "airpod"
