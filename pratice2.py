@@ -6,3 +6,6 @@ phones.sort()
 print(phones)
 
 print(phones[0:5])
+
+phones.reverse()
+print(phones)
