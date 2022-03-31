@@ -82,3 +82,4 @@ if question_ten == answer_ten:
     score +=1
 else:
     print("sorry try again next time")
+print(" thank you")
