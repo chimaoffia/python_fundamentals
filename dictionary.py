@@ -32,3 +32,28 @@ employers = [
 
 print(employers)
 print(employers[0]["first_name"])
+
+
+#adding items to a dictionary
+
+workers = {
+    "first_name": "chima",
+    "last_name": "offia"
+}
+
+workers["email"] = "offiahchima@gmail.com"
+workers["last_name"] = "johnson"
+workers["hobbies"] = ["gaming", "playing chess"]
+
+print(workers["hobbies"][1])
+
+#dictionary method update
+
+workers.update({"last_name":"mike"}) #.update is used to update or add item in the dictionary. 
+workers2 = workers.copy()  #copy is another method.
+print(workers2)
+
+workers.pop("last_name") #pop means remove
+workers.clear() #it clears everything
+print(workers.get("nickname", "sorry not found"))  #it same as assessing items in dictionary
+

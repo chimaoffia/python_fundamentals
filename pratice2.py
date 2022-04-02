@@ -9,3 +9,31 @@ print(phones[0:5])
 
 phones.reverse()
 print(phones)
+
+answer_one = "three"
+
+question_one = input("please enter ?\n")
+if question_one == "3" or question_one == answer_one:
+    print("correct")
+else:
+    ("wrong")
+
+
+staffs = [
+     {
+      "first_name" = "christian",
+      "last_name" = "nnamani",
+      "hobbies"  =  "hating chelsea","football","accounting"
+     },
+     {
+         "first_name" = "chima",
+         "last_name" = "offia",
+         "profession" = "software developer",
+         "hobbies" = "programming","football","reading"
+     },
+     [
+         
+     ]
+]
+
+

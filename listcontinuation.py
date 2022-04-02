@@ -11,3 +11,17 @@ print(people)
 
 people.reverse()
 print(people)
+
+
+#list unparking 
+
+
+# users = ["chima," "mike," "vincent"]
+# developer, admin, business = users
+# print(developer)
+# print(admin)
+# print(business)
+
+developer, admin = ["chima," "mike"]
+print(developer)
+
