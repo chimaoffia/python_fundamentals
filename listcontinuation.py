@@ -22,6 +22,6 @@ print(people)
 # print(admin)
 # print(business)
 
-developer, admin = ["chima," "mike"]
-print(developer)
+# developer, admin = ["chima," "mike"]
+# print(developer)
 
