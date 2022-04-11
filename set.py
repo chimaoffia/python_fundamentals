@@ -15,5 +15,3 @@ print(new_list)
 print(new_list[0])
 
 print("vincent" in email_list)
-
-# print(email_list[0])

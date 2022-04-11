@@ -26,31 +26,31 @@ staffs = [
 staffs[0]["email"] = "offiahchima@gmail"
 print(staffs[0])
 
-# print(staffs)
-# print(staffs[0]["first_name"])
+print(staffs)
+print(staffs[0]["first_name"])
 
 
-# #adding items to a dictionary
+#adding items to a dictionary
 
-# workers = {
-#     "first_name": "chima",
-#     "last_name": "offia"
-# }
+workers = {
+    "first_name": "chima",
+    "last_name": "offia"
+}
 
-# workers["email"] = "offiahchima@gmail.com"
-# workers["last_name"] = "johnson"
-# workers["hobbies"] = ["gaming", "playing chess"]
+workers["email"] = "offiahchima@gmail.com"
+workers["last_name"] = "johnson"
+workers["hobbies"] = ["gaming", "playing chess"]
 
-# print(workers["hobbies"][1])
+print(workers["hobbies"][1])
 
-# #dictionary method update
+#dictionary method update
 
-# workers.update({"last_name":"mike"})
-# workers2 = workers.copy()
-# print(workers2)
+workers.update({"last_name":"mike"})
+workers2 = workers.copy()
+print(workers2)
 
-# workers.pop("last_name")
-# workers.clear()
-# print(workers.get("nickname", "sorry not found"))
+workers.pop("last_name")
+workers.clear()
+print(workers.get("nickname", "sorry not found"))
 
 

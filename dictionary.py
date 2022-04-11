@@ -57,3 +57,5 @@ workers.pop("last_name") #pop means remove
 workers.clear() #it clears everything
 print(workers.get("nickname", "sorry not found"))  #it same as assessing items in dictionary
 
+
+

@@ -8,3 +8,7 @@ if has_good_credit and is_married:
 else:
     print("you are not eligible")
 
+
+
+#list
+

@@ -1,9 +1,9 @@
-
+#day 3  class or types of data, convertions of data(from str to int and vis vasa and concatination)
 
 
 rating = 4.2
 temprature = 4.0
-age = 30
+age = 22
 is_married = True
 name = "chima"
 

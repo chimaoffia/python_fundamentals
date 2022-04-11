@@ -21,19 +21,19 @@ else:
 
 staffs = [
      {
-      "first_name" = "christian",
-      "last_name" = "nnamani",
-      "hobbies"  =  "hating chelsea","football","accounting"
+      "first_name" : "christian",
+      "last_name" : "nnamani",
+      "hobbies"  : ["hating chelsea","football","accounting"]
      },
      {
-         "first_name" = "chima",
-         "last_name" = "offia",
-         "profession" = "software developer",
-         "hobbies" = "programming","football","reading"
+         "first_name" : "chima",
+         "last_name" : "offia",
+         "profession" : "software developer",
+         "hobbies" : ["programming","football","reading"]
      },
-     [
+     {
          
-     ]
+     }
 ]
 
 
