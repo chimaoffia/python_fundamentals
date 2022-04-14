@@ -1,4 +1,7 @@
+#checking index,slicing,the len funtion and capitalization
+
 full_name = "chima offia"
+
 
 print(full_name[0]) # checking the index of a strings
 print(full_name[4])  
